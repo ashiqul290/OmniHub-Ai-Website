@@ -1,0 +1,6 @@
+{
+  "name": "OmniHub — All-in-One Super Platform",
+  "description": "A modern, premium, clean, and professional all-in-one digital platform that brings shopping, jobs, education, social, business, healthcare, services, travel, real estate, AI tools, finance, and productivity together in one place.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
